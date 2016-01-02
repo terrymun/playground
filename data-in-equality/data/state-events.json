@@ -1,0 +1,914 @@
+{
+	"1": [
+		{
+			"status": "NoMrSt",
+			"date": "05-1998",
+			"event": "The Marriage Protection Act (Act 98-500) is passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "06-2006",
+			"event": "Amendment 774 to the Alabama constitution is passed 81-19%, forbidding marriage or other \"unions replicating marriage\"."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "02-2015",
+			"event": "The Supreme Court refused to put same-sex marriages on hold and they began, although same-sex couples had difficulties getting marriage licenses in many counties."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "03-2015",
+			"event": "The Alabama Supreme Court ordered judges to stop issuing same-sex marriage licenses, in apparent defiance of the Supreme Court."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"2": [
+		{
+			"status": "NoMrSt",
+			"date": "02-1998",
+			"event": "In Brause v. Bureau of Vital Statistics, an Alaska Superior Judge ruled choosing a marital partner is a fundamental right that cannot be denied by the state without a compelling reason, and asked for further hearings to determine whether a compelling state interest to ban same-sex marriage."
+		},
+		{
+			"status": "NoMrCs",
+			"date": "11-1998",
+			"event": "Amendment to the Alaska Constitution is passed 68-32% (Article 1, Section 25), forbidding same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "The Supreme Court rejected a request to block same-sex marriage in the state, and same-sex marriages will begin, although the state has said they will appeal."
+		}
+	],
+	"4": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1975",
+			"event": "A marriage license was given to two Phoenix men. The state legislature then passed an emergency bill banning same-sex marriage."
+		},
+		{
+			"status": "NoMrCs",
+			"date": "11-2008",
+			"event": "Proposition 102 passed 56-44%, forbidding same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "A federal judge the state's ban on same-sex marriage. The ruling was not put on hold and the state has said it will not appeal."
+		}
+	],
+	"5": [
+		{	
+			"status": "NoMrSt",
+			"date": "02-1997",
+			"event": "The state legislature passed HB1004 (modifying Arkansas Code 9-11-109), banning same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2004",
+			"event": "Amendment 83 to the Arkansas Constitution was passed 75-25%, forbidding same-sex marriage or legal status \"which is identical or substantially similar to marital status\"."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "05-2014",
+			"event": " A state judge struck down the state's same-sex marriage ban and did not issue a stay, and same-sex marriages began. The state's attorney general intends to appeal and will ask for a stay. The Arkansas Supreme Court issued a stay which halted same-sex marriages in the state."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"6": [
+		{
+			"status": "SomeCUSt",
+			"date": "09-1999",
+			"event": "Assembly Bill 26 of 1999 passed, granting domestic partners some rights."
+		},
+		{
+			"status": "YesCUSt",
+			"date": "06-2005",
+			"event": "Domestic partner rights were expanded to most of the rights that married couples have."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "06-2008",
+			"event": "The California Supreme Court ruled In re Marriage Cases that the previous statutory same-sex marriage ban was unconstitutional."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2008",
+			"event": "Proposition 8 passed 52-48%, amending the state constitution to forbid same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2013",
+			"event": "The Supreme Court ruled 5-4 in Hollingsworth v. Perry that the sponsors of Proposition 8 did not have standing to appeal the case, thus reverting to the District Court ruling that same-sex marriage is legal in California. Same-sex marriages in the state became recognized by the federal government after the Supreme Court decision in United States v. Windsor."
+		}
+	],
+	"8": [
+		{
+			"status": "NoMrSt",
+			"date": "03-1975",
+			"event": " After Clela Rorex, the county clerk of Boulder County, allowed six same-sex couples to wed, a law was quickly pushed through to forbid same-sex marriage."
+		},
+		{
+			"status": "NoMrCs",
+			"date": "11-2006",
+			"event": "Amendment 43 to the Colorado constitution passed 55-45%, forbidding same-sex marriage. In the same election, Referendum I was defeated 53-47%, which would have allowed same-sex domestic partnerships."
+		},
+		{
+			"status": "SomeCUSt",
+			"date": "07-2009",
+			"event": "House Bill 1260 takes effect, allowing two unmarried adults to become each other's designated beneficiary."
+		},
+		{
+			"status": "YesCUSt",
+			"date": "05-2013",
+			"event": "The same-sex civil unions bill takes effect."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "After the Supreme Court let the 10th Circuit's ruling stand, the state began giving out marriage licenses."
+		}
+	],
+	"9": [
+		{
+			"status": "YesCUSt",
+			"date": "04-2005",
+			"event": "The state legislature passed Public Act No. 05-10, establishing same-sex civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2008",
+			"event": "The Connecticut supreme court ruled in Kerrigan v. Commissioner of Public Health that the constitution protects the right of same-sex marriage."
+		}
+	],
+	"10": [
+		{
+			"status": "NoMrSt",
+			"date": "11-1996",
+			"event": "The Marriage Protection Act added a statute forbidding same-sex marriage."
+		},
+		{
+			"status": "YesCUSt",
+			"date": "01-2012",
+			"event": "The civil unions bill takes effect."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "07-2013",
+			"event": "Same-sex marriages begin."
+		}
+	],
+	"11": [
+		{
+			"status": "YesCUSt",
+			"date": "01-2002",
+			"event": "The Health Benefits Expansion Act was finally funded by Congress after 10 years, thus allowing domestic partnerships in the District of Columbia."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "03-2010",
+			"event": "In the previous December, the City Council voted 11-2 in favor of legalizing same-sex marriage. The mayor signed the bill, and it will go into effect in Spring 2010 after Congress' mandatory review period has expired unless Congress acts. The bill legalizing same-sex marriage then took effect."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2013",
+			"event": "Same-sex marriages in the state became recognized by the federal government after the Supreme Court decision in United States v. Windsor."
+		}
+	],
+	"12": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1997",
+			"event": "The Defense of Marriage law passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2008",
+			"event": "The Florida Marriage Amendment to the Florida constitution passed 62-38%, forbidding same-sex marriage and possibly same-sex civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "01-2015",
+			"event": "In July 2014, Aa county judge struck down the state's same-sex marriage ban. While the judge ordered that same-sex marriages could begin the next week, the attorney general announced that she would appeal, which caused a stay to be issued. The stay was finally lifted and same-sex marriages began."
+		}
+	],
+	"13": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Georgia General Assembly enacted Title 19, Section 19-3-3.1, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2004",
+			"event": "An act amending the Georgia constitution to forbid same-sex marriage and possibly civil unions passed 76-24%."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"15": [
+		{
+			"status": "SomeCUSt",
+			"date": "01-1997",
+			"event": "Reciprocal beneficiary relationships were created in Hawaii, allowing couples who cannot legally get married (including same-sex couples) to have a limited number of rights and benefits."
+		},
+		{
+			"status": "YesCUSt",
+			"date": "01-2012",
+			"event": "Senate Bill 232 takes effect, allowing civil unions."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "12-2013",
+			"event": "Same-sex marriages begin on December 2."
+		}
+	],
+	"16": [
+		{
+			"status": "NoCUSt",
+			"date": "01-1996",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage and possibly civil unions."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2006",
+			"event": "Idaho Amendment 2 passed 63-37%, forbidding same-sex marriage or civil unions in the state constitution."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "The Supreme Court allowed same-sex marriages to continue."
+		}
+	],
+	"17": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "YesCUSt",
+			"date": "06-2011",
+			"event": "The Illinois Religious Freedom Protection and Civil Unions Act takes effect, allowing same-sex civil unions."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "06-2014",
+			"event": "In November, the State House of Representatives passed a same-sex marriage bill by 61-54, followed by the State Senate passing the same-sex marriage bill by 32-21. Governor Pat Quinn signed the same-sex marriage bill. Same-sex marriages finally take effect."
+		}
+	],
+	"18": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1997",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoMrSt",
+			"date": "06-2014",
+			"event": "A federal judge struck down the state's same-sex marriage ban and instructed state agencies to start issuing marriage licenses. A federal appeals court put the ruling allowing same-sex marriage on hold pending an appeal."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "The Supreme Court let the 7th Circuit's ruling stand, and same-sex marriages began in the state."
+		}
+	],
+	"19": [
+		{
+			"status": "NoMrSt",
+			"date": "04-1998",
+			"event": "1998 Ia H.F. 382 passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "08-2007",
+			"event": "A ruling in the Varnum v. Brien case allowed same-sex marriage for a short time in Polk County in Iowa."
+		},
+		{
+			"status": "NoMrSt",
+			"date": "09-2007",
+			"event": "The judge then ordered a stay of his ruling pending the county's appeal. As of March 2009, the case is before the Iowa Supreme Court."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "04-2009",
+			"event": "The Iowa Supreme Court ruled unanimously that the law forbidding same-sex marriage was unconstitutional."
+		}
+	],
+	"20": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoMrCs",
+			"date": "04-2005",
+			"event": "Article 15, Section 16 of the Kansas Constitution passed 70-30%, forbidding same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "11-2014",
+			"event": "A US District Court judge granted an injunction stopping Kansas from enforcing its same-sex marriage ban, although the ruling is on hold until November 11. The state has said they will appeal. The Supreme Court rejected a request to put the ruling on hold, and same-sex marriages began in the state."
+		}
+	],
+	"21": [
+		{
+			"status": "NoMrSt",
+			"date": "04-1998",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2004",
+			"event": "Constitutional Amendment 1 passed 75-25%, forbidding same-sex marriage or civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"22": [
+		{
+			"status": "NoMrSt",
+			"date": "07-1999",
+			"event": "The Marriage Recognition Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoMrCs",
+			"date": "09-2004",
+			"event": "Constitutional Amendment 1 passed 78-22%, forbidding same-sex marriage or civil unions."
+		},
+		{
+			"status": "NoMrSt",
+			"date": "10-2004",
+			"event": "District Judge William Morvant of Baton Rouge struck down the constitutional amendment, finding that it violated a provision of the state constitution requiring amendments to only cover one subject."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "01-2005",
+			"event": "The Louisiana Supreme Court overruled the district judge and reinstated Constitutional Amendment 1."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"23": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1997",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "SomeCUSt",
+			"date": "06-2004",
+			"event": "Domestic partnerships were established in Maine, providing some rights to same-sex couples."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "12-2012",
+			"event": "Maine Question 1, allowing same-sex marriage, takes effect on December 29, 2012."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2013",
+			"event": "Same-sex marriages in the state became recognized by the federal government after the Supreme Court decision in United States v. Windsor."
+		}
+	],
+	"24": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1973",
+			"event": "The Maryland Statutes Family Law forbids same-sex marriage."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "01-2013",
+			"event": "The Civil Marriage Protection Act takes effect, allowing same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2013",
+			"event": "Same-sex marriages in the state became recognized by the federal government after the Supreme Court decision in United States v. Windsor."
+		}
+	],
+	"25": [
+		{
+			"status": "YesMrCs",
+			"date": "11-2003",
+			"event": "The Massachusetts Supreme Court ruled in Goodridge v. Department of Public Health that the state must allow same-sex marriage within 180 days."
+		}
+	],
+	"26": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2004",
+			"event": "Michigan State Proposal - 04-2 passed 59-41%, forbidding same-sex marriage or civil unions or any sort of domestic partnership benefits."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"27": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1997",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "08-2013",
+			"event": "The same-sex marriage bill, passed by the Minnesota State Senate by a vote of 37-30 in May 2013 and signed by governor Mark Dayton, takes effect."
+		}
+	],
+	"28": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1997",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoMrCs",
+			"date": "11-2004",
+			"event": "Mississippi Amendment 1 passed 86-14%, amending the Mississippi Constitution to forbid same-sex marriage. A US District Judge struck down the state's ban on same-sex marriage, although the ruling is on hold for two weeks in case the state wishes to appeal."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"29": [
+		{
+			"status": "NoMrSt",
+			"date": "07-2001",
+			"event": "2001 Mo. H.B. 157 passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoMrCs",
+			"date": "11-2004",
+			"event": "Missouri Constitutional Amendment 2 passed 71-29%, forbidding same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "11-2014",
+			"event": " A circuit court judge ruled that the state's ban on same-sex marriage is unconstitutional. The state has said they will appeal, but will not seek a stay."
+		}
+	],
+	"30": [
+		{
+			"status": "NoCUSt",
+			"date": "01-1997",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage or civil unions."
+		},
+		{
+			"status": "NoMrCs",
+			"date": "11-2004",
+			"event": "Montana Initiative 96 passed 67-33%, amending the Montana Constitution to forbid same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "11-2014",
+			"event": "A US District Judge ruled that the 9th Circuit's ruling applied to Montana as well, and allowed same-sex marriages to begin immediately. The state has said it will appeal the decision."
+		}
+	],
+	"31": [
+		{
+			"status": "NoCUCs",
+			"date": "11-2000",
+			"event": "Nebraska Initiative Measure 416 passed 70-30%, amending the Nebraska Constitution to forbid same-sex marriage or civil unions."
+		},
+		{
+			"status": "NA",
+			"date": "05-2005",
+			"event": "A federal judge in Omaha struck down the ban on same-sex marriage and civil unions in the case Citizens for Equal Protection v. Bruning."
+		},
+		{
+			"status": "NoCUSt",
+			"date": "07-2006",
+			"event": "The 8th Circuit Court of Appeals reinstates the ban on same-sex marriage and civil unions as a result of the case Citizens for Equal Protection v. Bruning."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"32": [
+		{
+			"status": "NoMrCs",
+			"date": "11-2002",
+			"event": "Nevada Question 2 passed 67-33%, amending the Nevada Constitution to forbid same-sex marriage. (this was done in two consecutive elections, as required by Nevada law)"
+		},
+		{
+			"status": "YesCUSt",
+			"date": "10-2009",
+			"event": "SB283 took effect, allowing domestic partner benefits to all couples."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "Same-sex marriages began in the state."
+		}
+	],
+	"33": [
+		{
+			"status": "NoMrSt",
+			"date": "07-1997",
+			"event": "Section 457 (part 1, part 2) forbids same-sex marriage."
+		},
+		{
+			"status": "YesCUSt",
+			"date": "01-2008",
+			"event": "Per HB 437, civil unions are given out to same-sex couples."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "01-2010",
+			"event": "HB 73 took effect, allowing same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2013",
+			"event": "Same-sex marriages in the state became recognized by the federal government after the Supreme Court decision in United States v. Windsor."
+		}
+	],
+	"34": [
+		{
+			"status": "YesCUSt",
+			"date": "02-2007",
+			"event": "The Civil Union Act passed the New Jersey Legislature and was signed by the governor, allowing for same-sex civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2013",
+			"event": "New Jersey governor Chris Christie dropped the state's appeal of Garden State Equality, et al. v. Dow, et al., which makes same-sex marriage legal in the state."
+		}
+	],
+	"35": [
+		{
+			"status": "YesMrCs",
+			"date": "12-2013",
+			"event": "The New Mexico Supreme Court ruled in that same-sex marriage is allowed in the state."
+		}
+	],
+	"36": [
+		{
+			"status": "YesMrSt",
+			"date": "07-2011",
+			"event": "The same-sex marriage bill takes effect."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2013",
+			"event": "Same-sex marriages in the state became recognized by the federal government after the Supreme Court decision in United States v. Windsor."
+		}
+	],
+	"37": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "05-2012",
+			"event": "Amendment 1 passed 61-39%, forbidding same-sex marriage or civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "After a ruling from a US District Judge, same-sex marriages began in the state."
+		}
+	],
+	"38": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1997",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2004",
+			"event": "North Dakota Constitutional Measure 1 passed 73-27%, forbidding same-sex marriage or civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"39": [
+		{
+			"status": "NoCUSt",
+			"date": "02-2005",
+			"event": "HB 272 passed, forbidding same-sex marriage or civil unions."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2004",
+			"event": "Ohio State Issue 1 passed 62-38%, amending the Ohio State Constitution to forbid same-sex marriage or civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"40": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Marriage Recognition Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2004",
+			"event": "Oklahoma State Question 711 passed 76-24%, amending the Oklahoma Constitution to forbid same-sex marriage or civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "The Supreme Court let the 10th Circuit's ruling stand, and same-sex marriages began in the state."
+		}
+	],
+	"41": [
+		{
+			"status": "NoMrCs",
+			"date": "11-2004",
+			"event": "Oregon Ballot Measure 36 passed 57-43%, amending the Oregon Constitution to forbid same-sex marriage."
+		},
+		{
+			"status": "YesCUSt",
+			"date": "02-2008",
+			"event": "The bill took effect, allowing for same-sex domestic partnerships."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "05-2014",
+			"event": "A federal judge struck down the ban on same-sex marriage and allowed counties to begin issuing marriage licenses immediately."
+		}
+	],
+	"42": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "05-2014",
+			"event": "A federal judge struck down the state's same-sex marriage ban and allowed same-sex marriages to begin immediately. Governor Tom Corbett said he will not appeal the ruling."
+		}
+	],
+	"44": [
+		{
+			"status": "YesCUSt",
+			"date": "07-2011",
+			"event": "Over objections of some same-sex marriage advocacy groups, Governor Lincoln Chafee signed the civil unions bill, which takes effect retroactively on July 1."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "08-2013",
+			"event": "In May, the State House passed the same-sex marriage bill, and Governor Lincoln Chafee signed it into law, making Rhode Island the last state in New England to allow same-sex marriage. The law will go into effect on August 1. Same-sex marriages begin."
+		}
+	],
+	"45": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2006",
+			"event": "South Carolina Amendment 1 passed 78-22%, amending the South Carolina Constitution to forbid same-sex marriage or civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "11-2014",
+			"event": "The Supreme Court denied a motion to put the previous ruling on hold, and same-sex marriages began."
+		}
+	],
+	"46": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2006",
+			"event": "South Dakota Amendment C passed 52-48%, amending the South Dakota Constitution to forbid same-sex marriage or civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"47": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1996",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoMrCs",
+			"date": "11-2006",
+			"event": "Tennessee Amendment 1 passed 81-19%, amending the Tennessee Constitution to forbid same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"48": [
+		{
+			"status": "NoMrSt",
+			"date": "04-1997",
+			"event": "Acts 1997, 75th Leg., ch. 7, Sec. 1, eff. April 17, 1997 passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUSt",
+			"date": "09-2003",
+			"event": "Acts 2003, 78th Leg., ch. 124, Sec. 1, eff. Sept. 1, 2003 passed, forbidding same-sex marriage or civil unions."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2005",
+			"event": "Texas Proposition 2 passed 76-24%, amending the Texas Constitution to forbid same-sex marriage or civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2015",
+			"event": "The Supreme Court ruled in Obergefell v. Hodges that same-sex marriage was legal in all 50 states."
+		}
+	],
+	"49": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1995",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2004",
+			"event": "Utah Constitutional Amendment 3 passed 66-34%, amending the Utah Constitution to forbid same-sex marriage or civil unions."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "12-2013",
+			"event": "A federal judge struck down the ban on same-sex marriages. The state is expected to appeal the decision and it is likely the decision will be stayed pending appeal."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "01-2014",
+			"event": "The governor put same-sex marriages on hold pending the state's appeal."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "The Supreme Court let the 10th Circuit's ruling stand, and same-sex marriages began in the state."
+		}
+	],
+	"50": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1999",
+			"event": " 1999, No. 91 (Adj. Sess.), § 25 passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "YesCUCs",
+			"date": "07-2000",
+			"event": "The Vermont Civil union law went into effect, allowing for same-sex civil unions."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "09-2009",
+			"event": "The same-sex marriage bill takes effect."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2013",
+			"event": "Same-sex marriages in the state became recognized by the federal government after the Supreme Court decision in United States v. Windsor."
+		}
+	],
+	"51": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1975",
+			"event": "The Code of Virginia was amended to forbid same-sex marriage."
+		},
+		{
+			"status": "NoCUSt",
+			"date": "01-2004",
+			"event": "The Code of Virginia was amended to forbid same-sex civil unions as well."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2006",
+			"event": "The Marshall-Newman Amendment passed 57-43%, amending the Virginia Constitution to forbid same-sex marriage or civil unions or any private contracts that would have the same effect."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "The Supreme Court let the 4th Circuit's ruling stand, and same-sex marriages began in the state."
+		}
+	],
+	"53": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1998",
+			"event": "The Defense of Marriage Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "SomeCUSt",
+			"date": "07-2007",
+			"event": "The state legislature passed a domestic partnership law, providing some benefits of marriage to same-sex couples."
+		},
+		{
+			"status": "YesCUSt",
+			"date": "11-2009",
+			"event": "Referendum 71 passed 53-47%, giving all benefits of marriage to same-sex couples. It was the first time in the US that voters approved a state-wide ballot measure that extended LGBT relationship rights."
+		},
+		{
+			"status": "YesMrSt",
+			"date": "12-2012",
+			"event": "Washington Referendum 74 takes effect, allowing same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "06-2013",
+			"event": "Same-sex marriages in the state became recognized by the federal government after the Supreme Court decision in United States v. Windsor."
+		}
+	],
+	"54": [
+		{
+			"status": "NoMrSt",
+			"date": "01-2000",
+			"event": "The Marriage Protection Act passed, forbidding same-sex marriage."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "The Supreme Court let the 4th Circuit's ruling stand, and same-sex marriages began in the state."
+		}
+	],
+	"55": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1979",
+			"event": "The Wisconsin Family Code forbids same-sex marriage."
+		},
+		{
+			"status": "NoCUCs",
+			"date": "11-2006",
+			"event": "Wisconsin Referendum 1 passed 59-41%, amending the Wisconsin Constitution to forbid same-sex marriage or civil unions."
+		},
+		{
+			"status": "SomeCUSt",
+			"date": "07-2009",
+			"event": "The state budget takes effect, allowing very limited domestic partnerships."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "The Supreme Court let the 7th Circuit's ruling stand, and same-sex marriages began in the state."
+		}
+	],
+	"56": [
+		{
+			"status": "NoMrSt",
+			"date": "01-1970",
+			"event": "The Wyoming Domestic Relations Code forbids same-sex marriage. The date when this code was drafted and approved was not known."
+		},
+		{
+			"status": "YesMrCs",
+			"date": "10-2014",
+			"event": "The Supreme Court let the 10th Circuit's ruling stand, although same-sex marriages had not begun yet. A US District Judge overturned the state's same-sex marriage ban, although the ruling was put on hold while the state decides whether to appeal. Same-sex marriages will begin on October 23 or immediately if the state does not appeal. The state said it would not appeal, and same-sex marriages began."
+		}
+	]
+}

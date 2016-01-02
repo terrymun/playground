@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Data in Equality &mdash; #LoveWins</title>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<meta name="thumbnail" content="http://terrymun.com/playground/data-in-equality/images/thumb.png" />
+	<meta name="description" content="Visualizng the legality of same-sex unions across USA from 1975 to 2015." />
+
+	<!-- Facebook -->
+	<meta property="og:title" content="Data in Equality" />
+	<meta property="og:site_name" content="Terry Mun: Playground" />
+	<meta property="og:url" content="http://terrymun.com/playground/data-in-equality/" />
+	<meta property="og:description" content="Visualizng the legality of same-sex unions across USA from 1975 to 2015 with the help of d3.js." />
+	<meta property="og:type" content="article" />
+	<meta property="og:image" content="http://terrymun.com/playground/data-in-equality/images/thumb.png" />
+	<meta property="article:author" content="http://terrymun.com" />
+	<meta property="article:publisher" content="http://terrymun.com" />
+
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css" />
+	<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="./css/style.css" />
+
+	<script src="//cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+</head>
+<body>
+	<header>
+		<h1>Data in Equality</h1>
+		<span class="byline">The right to marry in USA, 1970&ndash;2015, visualized.<br />#LoveWins</span>
+	</header>
+
+	<section>
+		<blockquote><p>They ask for equal dignity in the eyes of the law. The Constitution grants them that right. The judgment of the Court of Appeals for the Sixth Circuit is reversed.</p><p>It is so ordered.</p></blockquote>
+		<p>June 26, 2015&mdash;the day when the US Supreme Court ruled that commitment to love has no gender boundaries. By announcing that the 14<sup>th</sup> Ammendment is a mandate for states to recognize same-sex marriage (and also those performed in other states), the Supreme Court paved the way towards marriage equality across the US, no questions asked.</p>
+		<p>It all started in Wyoming, where the <a href="http://legisweb.state.wy.us/statutes/titles/Title20/Title20.htm">Domestic Relations Code</a> explicitly forbids same-sex marriages by definining marriage to be one between a man and a woman. It is unknown when this code was instated.</p>
+		<blockquote><hgroup><h1>TITLE 20 - DOMESTIC RELATIONS</h1><h2>CHAPTER 1 - HUSBAND AND WIFE</h2><h3>ARTICLE 1 - CREATION OF MARRIAGE</h3></hgroup><p>Marriage is a civil contract between a male and a female person to which the consent of the parties capable of contracting is essential.</p></blockquote>
+		<p>The first recorded instance of intervention in same-sex marraiges was in Maryland, dated January 1973. Many states followed suit&mdash;some event meddled with the Constitution to make it illegal for same-sex couples to wed.</p>
+		<p>However, 42 years down the road, the 300-million strong nation finally committed to equality&mdash;that marriage, the ultimate commitment to love, should be sex agnostic.</p>
+	</section>
+
+	<section>
+		<h2>Inspiration</h2>
+		<p>I have recently started working with d3.js, and therefore I am always on a lookout for interesting new data to visualize. Amidst the celebration after the Supreme Court's announcement, I came across this animated gif on the Internet, by David Mendoza (<a href="https://twitter.com/sen_mendoza">@sen_mendoza</a>):</p>
+		<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The path towards full marriage equality in one GIF: <a href="http://t.co/c0toGMqdSu">http://t.co/c0toGMqdSu</a> <a href="https://twitter.com/hashtag/lgbt?src=hash">#lgbt</a> <a href="https://twitter.com/hashtag/SCOTUSMarriage?src=hash">#SCOTUSMarriage</a> <a href="http://t.co/C0cJeKoiCu">pic.twitter.com/C0cJeKoiCu</a></p>&mdash; David Mendoza (@sen_mendoza) <a href="https://twitter.com/sen_mendoza/status/614438751847092224">June 26, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<h2>Data collection</h2>
+		<p>Most of the data are the distillation of what is kindly provided by <a href="http://gregstoll.dyndns.org/marriagemap/#state=WY">Greg Stoll</a> (<a href="https://twitter.com/gregstoll">@gregstoll</a>), with further information about same-sex marriage rulings (constitutional or statutory) being combined from an amazing <a href="http://www.washingtonpost.com/graphics/politics/advancements-in-same-sex-marriage/">non-map-based visualization by Katie Park</a> (<a href="https://twitter.com/katiepark">@katiepark</a>):</p>
+		<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Here&#39;s how we got to having same-sex marriage legal in all 50 states and DC:&#10;<a href="https://t.co/OBeu55RRWF">https://t.co/OBeu55RRWF</a> <a href="http://t.co/mpFBt6wA5l">pic.twitter.com/mpFBt6wA5l</a></p>&mdash; Katie Park (@katiepark) <a href="https://twitter.com/katiepark/status/614488492622655488">June 26, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<p>Data are charted using <a href="http://d3js.org">d3.js</a> and coloured using the palettes from <a href="http://colorbrewer2.org">Color Brewer</a> by Cynthia Brewer and Mark Harrower from Penn. State.</p>
+		<p>Population data (1970&ndash;2010) are from the US population census by the <a href="http://www.census.gov/topics/population.html">United States Census Bureau</a>.</p>
+	</section>
+
+	<section class="wide" id="map">
+		<h2 class="align-center">Legality of same-sex unions in USA, 1970&ndash;2015</h2>
+		<div id="map-wrapper">
+			<div id="map-loader"><svg width="80" height="80"><circle class="path" cx="40" cy="40" r="30" /></svg><p>Please wait while we render the map...</p></div>
+		</div>
+		<div id="map-controls">
+			<div id="date-slider">
+				<button type="button" id="date-animate" data-animation-state="" disabled></button>
+				<input type="range" id="date-slider-input" min="0" max="1" step="1" value="0" disabled />
+				<span id="range-value"></span>
+			</div>
+			<div id="marriage-toggle">
+				<label for="marriage-only"><input type="checkbox" id="marriage-only" />Show marriage-related decisions only</label>
+			</div>
+		</div>
+		<div id="map-dot"></div>
+		<div id="map-pop"></div>
+		<div id="map-legend">
+			<span class="legend-title">Fill legend</span>
+			<ul id="map-legend-list"></ul>
+		</div>
+	</section>
+
+	<section id="outro">
+		<h2 class="align-center">Outro</h2>
+		<img class="align-left profile-picture-small" src="./images/terry-mun.jpg" title="Terry Mun" alt="Terry Mun" />
+		<p>Data collected and chart designed by Terry Mun, a molecular biologist working on his PhD thesis with Aarhus University, but also a photographer, coder, web developer and designer in his free time. He currently lives in the beautiful city of Aarhus, Denmark.</p>
+		<p>Terry likes guys. <em>It is so decided.</em></p>
+		<p>You can find him on <a href="http://github.com/terrymun/">GitHub</a> and <a href="https://twitter.com/teddyrised">Twitter</a>.</p>
+	</section>
+
+	<footer>
+		<p>Handcoded by <a href="http://terrymun.com">Terry Mun</a>. Powered by <a href="http://d3js.org">d3.js</a> and <a href="http://colorbrewer2.org">Color Brewer</a>.</p>
+	</footer>
+
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+	<script src="http://d3js.org/colorbrewer.v1.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+	<script src="./js/d3.tooltip.js"></script>
+	<script src="./js/d3.fisheye.min.js"></script>
+	<script src="./js/functions.js"></script>
+
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-39783526-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+</body>
+</html>

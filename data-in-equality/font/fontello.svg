@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="male" unicode="&#xe800;" d="m571 457v-232q0-22-15-38t-38-16-38 16-16 38v196h-35v-509q0-25-19-44t-44-18-44 18-18 44v259h-36v-259q0-25-19-44t-44-18-44 18-18 44v509h-36v-196q0-22-15-38t-38-16-38 16-16 38v232q0 45 31 76t76 31h357q45 0 76-31t31-76z m-160 250q0-52-37-88t-88-37-89 37-36 88 36 89 89 36 88-36 37-89z" horiz-adv-x="571.4" />
+<glyph glyph-name="female" unicode="&#xe801;" d="m714 261q0-23-15-38t-38-16q-29 0-45 24l-127 190h-25v-73l138-230q5-8 5-18 0-14-10-25t-26-11h-107v-152q0-25-18-44t-44-18h-89q-26 0-45 18t-18 44v152h-107q-15 0-25 11t-11 25q0 10 5 18l138 230v73h-25l-127-190q-16-24-44-24-23 0-38 16t-16 38q0 16 9 29l143 215q41 59 98 59h214q58 0 99-59l142-215q9-13 9-29z m-232 446q0-52-36-88t-89-37-88 37-37 88 37 89 88 36 89-36 36-89z" horiz-adv-x="714.3" />
+<glyph glyph-name="ok" unicode="&#xe802;" d="m932 534q0-22-15-38l-404-404-76-76q-16-15-38-15t-38 15l-76 76-202 202q-15 16-15 38t15 38l76 76q16 16 38 16t38-16l164-165 366 367q16 16 38 16t38-16l76-76q15-16 15-38z" horiz-adv-x="1000" />
+<glyph glyph-name="help" unicode="&#xe803;" d="m393 149v-134q0-9-7-16t-15-6h-134q-9 0-16 6t-7 16v134q0 9 7 16t16 6h134q8 0 15-6t7-16z m176 335q0-30-8-56t-20-43-31-33-32-25-34-19q-23-13-38-37t-15-37q0-10-7-18t-16-9h-134q-8 0-14 10t-6 21v26q0 46 37 87t79 60q33 15 47 32t14 42q0 23-26 41t-60 18q-36 0-60-16-20-14-60-64-7-9-17-9-7 0-14 4l-91 70q-8 6-9 14t3 16q89 148 259 148 45 0 90-17t81-46 59-72 23-88z" horiz-adv-x="571.4" />
+<glyph glyph-name="cancel" unicode="&#xe804;" d="m724 112q0-22-15-38l-76-76q-16-15-38-15t-38 15l-164 165-164-165q-16-15-38-15t-38 15l-76 76q-16 16-16 38t16 38l164 164-164 164q-16 16-16 38t16 38l76 76q16 16 38 16t38-16l164-164 164 164q16 16 38 16t38-16l76-76q15-15 15-38t-15-38l-164-164 164-164q15-15 15-38z" horiz-adv-x="785.7" />
+</font>
+</defs>
+</svg>

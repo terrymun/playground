@@ -1,0 +1,20 @@
+var stateEvents = {
+	'53': {
+		{
+			'date': '01-1998',
+			'event': 'The Defense of Marriage Act passed, forbidding same-sex marriage.'
+		},
+		{
+			'date': '07-2007',
+			'event': 'The state legislature passed a domestic partnership law, providing some benefits of marriage to same-sex couples.'
+		},
+		{
+			'date': '11-2009',
+			'event': 'Referendum 71 passed 53-47%, giving all benefits of marriage to same-sex couples. It was the first time in the US that voters approved a state-wide ballot measure that extended LGBT relationship rights.'
+		},
+		{
+			'date': '12-2012',
+			'event': 'Washington Referendum 74 takes effect, allowing same-sex marriage.'
+		}
+	}
+}
